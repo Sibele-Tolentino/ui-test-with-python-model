@@ -1,0 +1,12 @@
+{
+    "valid_login":
+        {
+            "email": "",
+            "password": ""
+        },
+    "invalid_login":
+        {
+            "email": "moises@naoconsegue.raquete.guga",
+            "password": "arcoiro"
+        }
+}

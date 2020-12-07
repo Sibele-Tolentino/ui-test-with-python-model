@@ -1,0 +1,6 @@
+*.pyc
+allure-report
+.vscode
+env
+venv
+.DS_Store
