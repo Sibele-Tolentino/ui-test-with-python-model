@@ -12,7 +12,7 @@ Prerequisites:
 
 **Browser driver**: Google Chrome or Mozilla Firefox.
 
-In terminal run the commands:
+In the terminal run the commands:
 
 To install selenium:
 `pip install selenium`
